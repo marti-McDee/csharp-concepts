@@ -1,0 +1,9 @@
+build/
+bin/
+obj/
+
+.vs/
+*.csproj
+.config/
+
+*.code-workspace
