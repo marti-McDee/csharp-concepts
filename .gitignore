@@ -1,8 +1,8 @@
 build/
-dist/
-.parcel-cache
+bin/
+obj/
 
 .vscode/*
-node_modules
+*.csproj
 
 *.code-workspace
