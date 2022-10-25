@@ -25,17 +25,26 @@ aVeryBigNum = -395_904_282_569;
 
 /** Binary and Hexadecimal Literals **/
 int thirteen = 0b1101;  // leading zeros are not required
-Console.WriteLine(thirteen);
+//Console.WriteLine(thirteen);
 
 int theColorMagenta = 0xFF00FF;
-Console.WriteLine(theColorMagenta);
+//Console.WriteLine(theColorMagenta);
 
 
 /*** TEXT: CHARACTERS AND STRINGS ***/
 char aChar = 'a';
-Console.WriteLine(aChar);
+//Console.WriteLine(aChar);
 
 char aLetter = '\u0061';
-Console.WriteLine(aLetter);
+//Console.WriteLine(aLetter);
 
 string msg = "Hello, world!";
+
+
+/*** FLOATING-POINT TYPES ***/
+
+
+
+
+
+// practiced integer types; chars & strings; floating-point types; the bool type; type inference; the convert class and parse methods
