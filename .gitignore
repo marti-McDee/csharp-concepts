@@ -1,8 +1,0 @@
-build/
-bin/
-obj/
-
-.vscode/*
-*.csproj
-
-*.code-workspace
